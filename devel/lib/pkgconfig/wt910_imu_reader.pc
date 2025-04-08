@@ -1,0 +1,8 @@
+prefix=/home/jnano/catkin_ws/devel
+
+Name: wt910_imu_reader
+Description: Description of wt910_imu_reader
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

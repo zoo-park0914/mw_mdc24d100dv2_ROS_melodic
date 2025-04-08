@@ -1,0 +1,14 @@
+<!-- stella_md.launch -->
+<launch>
+    <!-- ROS1에서는 pkg, type, name, output 등으로 노드 지정 -->
+    <node
+        pkg="stella_md"
+        type="stella_md_node"
+        name="stella_md_node"
+        output="screen">
+        
+        <!-- 필요하면 파라미터, remap, args를 여기에 추가 가능 -->
+        
+    </node>
+</launch>
+

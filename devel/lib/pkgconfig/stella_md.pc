@@ -1,0 +1,8 @@
+prefix=/home/jnano/catkin_ws/devel
+
+Name: stella_md
+Description: Description of stella_md
+Version: 0.0.1
+Cflags: -I/home/jnano/catkin_ws/src/stella_md/src
+Libs: -L${prefix}/lib 
+Requires: roscpp std_msgs geometry_msgs nav_msgs tf2 tf2_ros tf2_msgs
