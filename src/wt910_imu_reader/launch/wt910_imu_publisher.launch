@@ -1,4 +1,0 @@
-<launch>
-    <node pkg="wt910_imu_reader" type="wt910_imu_reader.py" name="wt910_imu_publisher" output="screen"/>
-</launch>
-

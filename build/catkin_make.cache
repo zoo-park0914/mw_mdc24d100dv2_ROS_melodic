@@ -1,2 +1,0 @@
-stella_md:wt910_imu_reader
--DCATKIN_DEVEL_PREFIX=/home/jnano/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/jnano/catkin_ws/install -G Unix Makefiles
